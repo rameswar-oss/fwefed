@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic==1.10.7
+pickle5==0.0.12
+scikit-learn
+requests
