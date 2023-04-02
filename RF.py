@@ -7,7 +7,6 @@ Created on Sat Jun 11 18:50:57 2022
 
 from fastapi import FastAPI
 from pydantic import BaseModel
-import pickle
 import json
 import numpy as np
 import pandas as pd
